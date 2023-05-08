@@ -64,7 +64,7 @@ FLOAT_TYPES = set(["float", "double", "real"])
 
 DECIMAL_TYPES = set(["decimal", "number", "money", "smallmoney", "numeric"])
 
-DATETIME_TYPES = set(["datetime2", "datetime", "timestamp", "smalldatetime"])
+DATETIME_TYPES = set(["datetime2", "datetime", "timestamp", "smalldatetime", "datetimeoffset"])
 
 DATE_TYPES = set(["date"])
 
